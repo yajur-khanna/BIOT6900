@@ -1,0 +1,13 @@
+name: biot6900
+channels:
+  - conda-forge
+dependencies:
+  - biopython
+  - python=3.11
+  - requests
+  - numpy
+  - jupyter
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn

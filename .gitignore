@@ -1,14 +1,25 @@
-# Conda environment (579 MB, machine-specific — never commit)
+# --- Environments (never commit; rebuild from environment.yml) ---
 env/
+.venv/
 
-# Jupyter
+# --- Data pack: 72 MB of embeddings, distributed via the course ---
+# Everything in data/ is ignored except the note explaining how to get it.
+data/*
+!data/README.md
+
+# --- Jupyter ---
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
-# Python
+# --- Python ---
 __pycache__/
 *.py[cod]
 *.egg-info/
 
-# macOS
+# --- Editors / OS ---
+.idea/
 .DS_Store
+
+# --- Scratch output written by the Module 4 demo ---
+notebooks/demo_pymol.pml
+notebooks/demo_chimerax.cxc
