@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.2195
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0827
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6396
+HEADER 5  - Mean B-factor of pocket residues  : 0.0372
+HEADER 6  - Hydrophobicity Score              : 13.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 497.6642
+HEADER 10 - Pocket volume (convex hull)       : 26.0467
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM    293   CA GLN A  38     -12.471 -32.345 -26.863  0.00  0.00           C 0
+ATOM    292    N GLN A  38     -11.337 -31.420 -27.038  0.00  0.00           N 0
+ATOM    288    C SER A  37     -11.135 -30.608 -28.078  0.00  0.00           C 0
+ATOM    289   CB SER A  37     -10.983 -28.138 -28.538  0.00  0.00           C 0
+ATOM    287   CA SER A  37     -10.287 -29.348 -27.875  0.00  0.00           C 0
+ATOM    313   CE MET A  40     -12.028 -27.843 -20.502  0.00  0.00           C 0
+ATOM    290    O SER A  37     -11.581 -30.841 -29.195  0.69  3.21           O 0
+ATOM    297   CG GLN A  38     -13.738 -32.972 -28.987  0.00  0.00           C 0
+ATOM    301    N ALA A  39     -13.444 -33.306 -24.835  0.29  6.56           N 0
+ATOM    294    C GLN A  38     -12.319 -33.080 -25.520  0.00  0.00           C 0
+ATOM    312   SD MET A  40     -11.843 -29.619 -20.228  0.00  0.00           S 0
+ATOM    296    O GLN A  38     -11.212 -33.461 -25.157  0.55  9.64           O 0
+ATOM    283    O PRO A  36      -8.115 -30.997 -27.019  0.00  0.00           O 0
+ATOM    278  CD2 LEU A  35      -4.002 -32.024 -23.876  0.00  0.00           C 0
+ATOM    305    O ALA A  39     -12.431 -33.563 -21.523  0.00  0.00           O 0
+ATOM    311   CG MET A  40     -13.592 -30.047 -20.024  0.00  0.00           C 0
+ATOM    310    O MET A  40     -16.534 -30.726 -19.899  0.25  4.29           O 0
+ATOM    321  OD2 ASP A  41     -19.274 -30.474 -24.066  0.42  5.36           O 0
+ATOM    306    N MET A  40     -14.303 -32.400 -21.927  0.57  3.28           N 0
+ATOM    308    C MET A  40     -16.235 -31.722 -20.541  0.00  0.00           C 0
+TER
+END

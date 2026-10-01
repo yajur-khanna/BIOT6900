@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.1787
+HEADER 1  - Drug Score                        : 0.3630
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8508
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4422
+HEADER 5  - Mean B-factor of pocket residues  : 0.1456
+HEADER 6  - Hydrophobicity Score              : 60.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.3418
+HEADER 10 - Pocket volume (convex hull)       : 4.7422
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.9524
+ATOM    389  CG2 ILE A  50     -25.535 -27.332  -0.385  0.00  0.00           C 0
+ATOM    418  CE3 TRP A  53     -21.772 -30.743   4.536  0.00  0.00           C 0
+ATOM    412   CB TRP A  53     -24.913 -30.114   5.535  0.00  0.00           C 0
+ATOM    387    O ILE A  50     -27.460 -28.588   1.413  0.76  5.36           O 0
+ATOM    432  CE2 PHE A  54     -25.745 -24.883   5.501  0.00  0.00           C 0
+ATOM    388  CG1 ILE A  50     -24.927 -28.903  -2.268  0.00  0.00           C 0
+ATOM    384   CA ILE A  50     -26.788 -29.579  -0.688  0.00  0.00           C 0
+ATOM    379    O ASP A  49     -26.214 -32.273  -0.891  0.04  5.36           O 0
+ATOM    420  CH2 TRP A  53     -20.320 -32.632   3.993  0.00  0.00           C 0
+ATOM    417  CE2 TRP A  53     -22.615 -33.012   4.650  0.00  0.00           C 0
+ATOM    421  CZ2 TRP A  53     -21.373 -33.525   4.253  0.00  0.00           C 0
+ATOM    416  CD2 TRP A  53     -22.852 -31.613   4.800  0.00  0.00           C 0
+ATOM    422  CZ3 TRP A  53     -20.519 -31.247   4.135  0.00  0.00           C 0
+ATOM    390  CD1 ILE A  50     -24.146 -27.840  -3.054  0.00  0.00           C 0
+ATOM    414   CG TRP A  53     -24.233 -31.416   5.223  0.00  0.00           C 0
+TER
+END

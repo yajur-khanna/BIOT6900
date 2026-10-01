@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0284
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9475
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6649
+HEADER 5  - Mean B-factor of pocket residues  : 0.5149
+HEADER 6  - Hydrophobicity Score              : 31.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.2186
+HEADER 10 - Pocket volume (convex hull)       : 13.8948
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM    142   CB PHE A  19      21.165 -10.650 -23.643  0.00  0.00           C 0
+ATOM    118    O GLN A  16      23.162  -8.005 -25.561  0.88  7.50           O 0
+ATOM    155   OG SER A  20      22.131 -12.397 -28.902  0.00  0.00           O 0
+ATOM    145  CD1 PHE A  19      18.742 -11.422 -23.565  0.00  0.00           C 0
+ATOM    119   CG GLN A  16      21.869  -4.978 -25.400  0.00  0.00           C 0
+ATOM    144   CG PHE A  19      19.865 -10.892 -22.902  0.00  0.00           C 0
+ATOM    177   CG TRP A  23      17.290 -16.178 -25.950  0.00  0.00           C 0
+ATOM    175   CB TRP A  23      18.768 -16.140 -25.723  0.00  0.00           C 0
+ATOM    178  CD1 TRP A  23      16.642 -16.855 -26.924  0.00  0.00           C 0
+ATOM    151   CA SER A  20      22.310 -13.755 -26.916  0.00  0.00           C 0
+ATOM    143    O PHE A  19      21.064 -13.799 -24.436  0.00  0.00           O 0
+ATOM    154    O SER A  20      22.267 -16.143 -26.899  0.00  0.00           O 0
+ATOM    153   CB SER A  20      22.979 -13.292 -28.213  0.00  0.00           C 0
+ATOM    193   CE LYS A  24      23.345 -18.001 -30.518  0.00  0.00           C 0
+ATOM    191   CG LYS A  24      22.110 -19.125 -28.627  0.00  0.00           C 0
+ATOM    150    N SER A  20      22.487 -12.769 -25.834  0.00  0.00           N 0
+TER
+END

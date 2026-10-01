@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1168
+HEADER 1  - Drug Score                        : 0.0095
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 4.0872
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5012
+HEADER 5  - Mean B-factor of pocket residues  : 0.8400
+HEADER 6  - Hydrophobicity Score              : 1.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 510.4978
+HEADER 10 - Pocket volume (convex hull)       : 88.4030
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.4667
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.2459
+ATOM   2222   CA ASN A 288       2.172  18.535 -14.416  0.00  0.00           C 0
+ATOM   2228  OD1 ASN A 288       4.939  17.791 -14.741  0.79  3.21           O 0
+ATOM   2224   CB ASN A 288       2.632  17.073 -14.500  0.00  0.00           C 0
+ATOM   2225    O ASN A 288       0.246  18.991 -15.756  0.58  3.21           O 0
+ATOM   2727  OE2 GLU A 349       2.159  16.016 -22.294  0.00  0.00           O 0
+ATOM   2263   CD LYS A 292      -3.162  16.805 -18.710  0.00  0.00           C 0
+ATOM   2226   CG ASN A 288       4.139  16.886 -14.561  0.00  0.00           C 0
+ATOM   2227  ND2 ASN A 288       4.586  15.657 -14.447  0.00  0.00           N 0
+ATOM   2722   CB GLU A 349       4.583  17.359 -22.765  0.00  0.00           C 0
+ATOM   2756   CB ALA A 353       7.485  19.261 -17.575  0.00  0.00           C 0
+ATOM   2252    O LYS A 291      -0.599  22.822 -18.890  0.00  0.00           O 0
+ATOM   2724   CG GLU A 349       3.353  17.629 -23.650  0.00  0.00           C 0
+ATOM   2752  OD2 ASP A 352       5.840  22.510 -24.056  0.00  0.00           O 0
+ATOM   2748   CB ASP A 352       6.636  22.612 -21.820  0.00  0.00           C 0
+ATOM   2257    N LYS A 292      -1.107  21.128 -17.511  0.00  0.00           N 0
+ATOM   2260   CB LYS A 292      -2.399  19.102 -17.881  0.00  0.00           C 0
+ATOM   2258   CA LYS A 292      -2.151  20.544 -18.356  0.00  0.00           C 0
+ATOM   2250    C LYS A 291      -0.438  22.238 -17.830  0.00  0.00           C 0
+ATOM   2262   CG LYS A 292      -2.890  18.265 -19.050  0.00  0.00           C 0
+ATOM   2720   CA GLU A 349       5.724  18.375 -22.960  0.00  0.00           C 0
+ATOM   2725   CD GLU A 349       2.161  16.694 -23.351  0.00  0.00           C 0
+ATOM   2723    O GLU A 349       6.686  19.030 -20.834  0.00  0.00           O 0
+ATOM   2721    C GLU A 349       6.719  18.251 -21.792  0.00  0.00           C 0
+ATOM   2531   OH TYR A 327      -2.954  18.775 -21.983  0.56  7.50           O 0
+ATOM   2726  OE1 GLU A 349       1.217  16.659 -24.178  0.59  5.36           O 0
+ATOM   2701    O GLU A 346       7.367  14.833 -23.534  0.64  2.14           O 0
+ATOM   2728    N LEU A 350       7.663  17.305 -21.873  0.00  0.00           N 0
+ATOM   2698   CA GLU A 346       5.897  13.581 -24.978  0.00  0.00           C 0
+ATOM   2702   CG GLU A 346       4.646  11.345 -24.724  0.00  0.00           C 0
+ATOM   2700   CB GLU A 346       6.013  12.058 -24.768  0.00  0.00           C 0
+ATOM   2251   CB LYS A 291       1.935  22.249 -17.045  0.00  0.00           C 0
+ATOM   2254   CD LYS A 291       4.405  22.601 -16.616  0.00  0.00           C 0
+ATOM   2264   CE LYS A 292      -3.663  16.168 -20.009  0.00  0.00           C 0
+ATOM   2265   NZ LYS A 292      -3.752  14.696 -19.905  0.61  6.56           N 0
+ATOM   2729   CA LEU A 350       8.713  17.134 -20.869  0.00  0.00           C 0
+ATOM   2734  CD1 LEU A 350      10.234  13.874 -19.694  0.00  0.00           C 0
+ATOM   2731   CB LEU A 350       9.390  15.777 -21.118  0.00  0.00           C 0
+ATOM   2733   CG LEU A 350      10.381  15.363 -20.015  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0117
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4684
+HEADER 5  - Mean B-factor of pocket residues  : 0.9747
+HEADER 6  - Hydrophobicity Score              : 37.1000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.4772
+HEADER 10 - Pocket volume (convex hull)       : 4.9095
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM   1068   CG PRO A 142      -1.974   9.269   8.397  0.00  0.00           C 0
+ATOM    861    O LEU A 114      -2.867  15.074   5.167  0.59  2.14           O 0
+ATOM    860   CB LEU A 114      -3.315  13.924   8.022  0.00  0.00           C 0
+ATOM    880   OG SER A 116       0.277  14.877   5.758  0.49  5.36           O 0
+ATOM    857    N LEU A 114      -5.015  13.466   6.305  0.63  1.09           N 0
+ATOM    849   CB PHE A 113      -6.070  12.437   3.370  0.00  0.00           C 0
+ATOM    942   CB TYR A 126      -3.108  13.147   1.086  0.00  0.00           C 0
+ATOM   1067    O PRO A 142      -4.318   8.627   6.251  0.00  0.00           O 0
+ATOM    852  CD1 PHE A 113      -6.070  10.024   2.578  0.00  0.00           C 0
+ATOM   1000   SD MET A 133      -2.078   7.446   1.841  0.00  0.00           S 0
+ATOM    931   SG CYS A 124       0.937   9.069   3.629  0.00  0.00           S 0
+ATOM    939    N TYR A 126      -0.714  13.589   1.063  0.00  0.00           N 0
+ATOM   1069   CD PRO A 142      -1.151   8.234   7.634  0.00  0.00           C 0
+ATOM    933   CA THR A 125       1.533  13.142   1.895  0.00  0.00           C 0
+ATOM   1054    O THR A 140       2.097   6.618   7.004  0.00  0.00           O 0
+ATOM    929   CB CYS A 124       2.501   9.375   4.493  0.00  0.00           C 0
+ATOM    925  OG1 THR A 123       6.175   9.568   6.854  0.00  0.00           O 0
+ATOM    930    O CYS A 124       2.998  12.545   4.207  0.00  0.00           O 0
+TER
+END

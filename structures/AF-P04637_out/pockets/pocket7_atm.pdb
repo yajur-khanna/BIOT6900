@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0150
+HEADER 1  - Drug Score                        : 0.0410
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7696
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5279
+HEADER 5  - Mean B-factor of pocket residues  : 0.0628
+HEADER 6  - Hydrophobicity Score              : 20.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.1581
+HEADER 10 - Pocket volume (convex hull)       : 3.8526
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM    318    O ASP A  41     -19.406 -34.582 -21.088  0.47  5.36           O 0
+ATOM    325   CB ASP A  42     -18.718 -36.366 -18.843  0.00  0.00           C 0
+ATOM    329  OD2 ASP A  42     -19.606 -38.522 -19.329  0.68  9.64           O 0
+ATOM    304   CB ALA A  39     -12.900 -35.424 -23.659  0.00  0.00           C 0
+ATOM    302   CA ALA A  39     -13.605 -34.059 -23.583  0.00  0.00           C 0
+ATOM    314    N ASP A  41     -17.115 -32.380 -21.296  0.93  1.09           N 0
+ATOM    326    O ASP A  42     -18.451 -35.714 -16.156  0.64  5.36           O 0
+ATOM    307   CA MET A  40     -14.798 -32.273 -20.547  0.00  0.00           C 0
+ATOM    322    N ASP A  42     -18.591 -33.859 -19.131  0.53  1.09           N 0
+ATOM    330    N LEU A  43     -19.163 -33.616 -16.254  0.46  2.19           N 0
+ATOM    309   CB MET A  40     -13.838 -31.502 -19.619  0.00  0.00           C 0
+ATOM    310    O MET A  40     -16.534 -30.726 -19.899  0.25  4.29           O 0
+ATOM    333   CB LEU A  43     -18.002 -33.237 -14.048  0.00  0.00           C 0
+ATOM    335   CG LEU A  43     -17.076 -34.466 -13.873  0.00  0.00           C 0
+ATOM    336  CD1 LEU A  43     -15.839 -34.067 -13.069  0.00  0.00           C 0
+ATOM    303    C ALA A  39     -13.368 -33.293 -22.264  0.00  0.00           C 0
+ATOM    305    O ALA A  39     -12.431 -33.563 -21.523  0.00  0.00           O 0
+ATOM    324    C ASP A  42     -18.915 -34.801 -16.822  0.00  0.00           C 0
+TER
+END

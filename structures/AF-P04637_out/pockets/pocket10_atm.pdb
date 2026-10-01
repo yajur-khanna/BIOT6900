@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0111
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6157
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4102
+HEADER 5  - Mean B-factor of pocket residues  : 1.0000
+HEADER 6  - Hydrophobicity Score              : -8.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.9971
+HEADER 10 - Pocket volume (convex hull)       : 0.7500
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   2097    O VAL A 272      -0.122   4.574  -6.133  0.74  2.14           O 0
+ATOM   2091  OE1 GLU A 271      -1.831   7.645  -9.909  0.00  0.00           O 0
+ATOM    993   NZ LYS A 132       0.327   9.123  -9.315  0.22  5.47           N 0
+ATOM   1929   CB PRO A 250      -1.018   4.605 -11.728  0.00  0.00           C 0
+ATOM   1927   CA PRO A 250      -0.428   3.320 -11.138  0.00  0.00           C 0
+ATOM   1857   CB SER A 240       4.592   2.718  -7.542  0.00  0.00           C 0
+ATOM   2105   CG ARG A 273       3.893   7.210  -6.718  0.00  0.00           C 0
+ATOM   1859   OG SER A 240       3.621   2.934  -6.536  0.64  1.07           O 0
+ATOM   2108  NH1 ARG A 273       5.292   7.272  -9.976  0.26  9.84           N 0
+ATOM   2103   CB ARG A 273       2.475   7.265  -6.143  0.00  0.00           C 0
+ATOM   1931   CG PRO A 250      -0.159   4.876 -12.961  0.00  0.00           C 0
+ATOM   1908    O ARG A 248       3.705   2.952 -13.420  0.44  3.21           O 0
+ATOM   1919    O ARG A 249       1.198   1.073 -10.919  0.00  0.00           O 0
+TER
+END
