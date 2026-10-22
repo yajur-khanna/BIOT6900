@@ -23,3 +23,8 @@ __pycache__/
 # --- Scratch output written by the Module 4 demo ---
 notebooks/demo_pymol.pml
 notebooks/demo_chimerax.cxc
+
+# --- Secrets: Neo4j Aura credentials for Module 7 ---
+.env
+!.env.example
+Neo4j-*-Created-*.txt

@@ -11,3 +11,5 @@ dependencies:
   - matplotlib
   - scipy
   - scikit-learn
+  - networkx
+  - neo4j-python-driver
