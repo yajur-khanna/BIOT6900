@@ -6,6 +6,8 @@ env/
 # Everything in data/ is ignored except the note explaining how to get it.
 data/*
 !data/README.md
+# scanpy/squidpy cache ./data/ relative to the kernel cwd (Module 8 Visium is 314 MB)
+notebooks/data/
 
 # --- Jupyter ---
 .ipynb_checkpoints/

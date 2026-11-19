@@ -13,3 +13,9 @@ dependencies:
   - scikit-learn
   - networkx
   - neo4j-python-driver
+  - scanpy
+  - anndata
+  - python-igraph
+  - leidenalg
+  - umap-learn
+  - squidpy

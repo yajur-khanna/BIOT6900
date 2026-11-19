@@ -22,6 +22,7 @@ releases; pin them there if you need an exact rebuild.
 notebooks/     all lab notebooks, outputs committed so results are readable on GitHub
 data/          gitignored — see data/README.md for how to obtain the Module 3 pack
 structures/    PDB inputs for the Module 4 drug-pocket demo
+docs/          lab guides (PDF)
 environment.yml
 ```
 
